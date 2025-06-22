@@ -18,7 +18,6 @@ This contract was built to meet high standards of quality and security:
 * **Slippage Protection**: All trading and liquidity functions include parameters (`amountOutMin`, `amountAMin`, etc.) to protect users from price volatility during transaction confirmation.
 * **Deadline Protection**: All state-changing functions include a `deadline` parameter to prevent transactions from being maliciously held and executed later at an unfavorable price.
 * **NatSpec Documentation**: The entire codebase is thoroughly documented using the Ethereum Natural Language Specification (NatSpec) format for maximum clarity and interoperability with developer tools.
-* **English Language Standard**: All code, comments, and documentation adhere to English language standards for a global developer audience.
 
 ## Contract Public Interface
 
